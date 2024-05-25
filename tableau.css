@@ -1,0 +1,23 @@
+h1{
+
+    color: darkblue;
+}
+table {
+    border: 1px;
+    color:darkgray;
+    
+    
+}
+tr.pair{
+    background-color: brown;
+    padding:10px;
+}
+tr.impair{
+    background-color: aquamarine;
+    padding: 10px;
+}
+td{
+    padding: 10px;
+    border-style: dotted;
+    border-color: darkblue;
+}
